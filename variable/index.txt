@@ -1,0 +1,15 @@
+// Learning javascript variables
+
+Inside javascript we have 3 types of variables:
+
+- var (global variable) to learn more about go to var.js file
+- let (local variable) to learn more about go to let.js file
+- const (local variable) to learn more about go to const.js file
+
+It is important that we already know the types of data that exist as:
+
+- number(exemple = 0)
+- string(exemple = "Test")
+- boolean(exemple = true || false)
+- array(exemple = [1,2,3,4,5])
+- object(exemple = {name:"Gabi", age:17, married:false})

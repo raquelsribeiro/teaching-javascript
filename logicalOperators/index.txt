@@ -1,0 +1,14 @@
+Logical operators
+
+Logical operators are typically used with Boolean (logical) values. 
+When they are, they return a Boolean value. 
+However, the && and || operators actually return the value of one of the specific operands, 
+so if these operators are used with non-Boolean values, they can return a non-Boolean value.
+
+There are three types of logical operators they are:
+
+- AND (&&)
+
+- OR (||)
+
+- NOT (!)

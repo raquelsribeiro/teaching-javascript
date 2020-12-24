@@ -1,0 +1,8 @@
+
+01 - Create a list of people with at least 10 names
+02 - create a list with numbers from 0 to 50 
+03 - create a shopping list with product name, product price and whether it is healthy or not
+04 - create a list of names up to 5 names and filter one of the names within the list
+05 - create a list of radom numbers and then rearrange them incrementally 
+06 - create a list of objects with name and age and include whether the person is married or not. 
+07 - create a list of random numbers and capture only the total value of all the numbers

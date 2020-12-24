@@ -1,0 +1,4 @@
+Promisse
+
+A Promise is an object that represents the eventual 
+conclusion or failure of an asynchronous operation.

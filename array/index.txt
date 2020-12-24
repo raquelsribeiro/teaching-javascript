@@ -1,0 +1,13 @@
+What is array ?
+
+Array is a list of a vector that stores values in positions.
+
+What do we use an array for?
+
+For list declaration by examples a list of names or a shopping list or even card numbers we always use to store more than one value 
+
+- to know about arrays go to array.js
+- to know about method filter go to methodFilter.js
+- to know about method map go to methodMap.js
+- to know about method reducer go to methodReducer.js
+- to know about method sort go to methodSort.js

@@ -1,0 +1,4 @@
+Functions in javascript
+
+Functions are fundamental building blocks in JavaScript. 
+A function is a JavaScript procedure - a set of instructions that performs a task or calculates a value.
