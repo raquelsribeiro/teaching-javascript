@@ -1,1 +1,13 @@
 01 - create variables and constants with all kinds of data we have in javascript in a file called activity.js
+
+const guestsBeach = [
+  { name: "Raquel" },
+  { name: "Vitor" },
+  { name: "M. Eduarda" },
+  { name: "Hebert" },
+  { name: "Felipe" },
+];
+
+const names = ["M. Eduarda", "Raquel"];
+const filterName = names.filter((name) => name === "M. Eduarda");
+console.log(filterName);
