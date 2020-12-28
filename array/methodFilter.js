@@ -10,11 +10,6 @@ const persons = [
   { name: "Laura", age: 30, gender: "F" },
   { name: "Ricardo", age: 45, gender: "M" },
 ];
-
-const names = ["Vitor", "Raquel"];
-const filterName1 = names.filter((name) => name === "Vitor");
-console.log(filterName1);
-
 console.log("persons", persons);
 
 const filterName = persons.filter(function (person, index) {
@@ -28,3 +23,7 @@ console.log(filterAge);
 
 const filterGender = persons.filter((person) => person.gender === "F");
 console.log(filterGender);
+
+const names = ["Vitor", "Raquel"];
+const filterName1 = names.filter((name) => name === "Vitor");
+console.log(filterName1);
