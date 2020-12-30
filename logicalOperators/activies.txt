@@ -1,0 +1,4 @@
+
+- make an operational logic to be a real dog or cat
+- make an operational logic for if you are a little bird and pious to be true
+- make an operational not logic that returns true

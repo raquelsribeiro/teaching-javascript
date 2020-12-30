@@ -1,0 +1,6 @@
+
+- Make a conditional that presents the message over 18 if the person is 18 or over and the message under 18 if not
+- Make a conditional for a light and in each of the three show the message with its color, if you want you can change the colors automatically
+- Make a conditional to validate a cpf (use regex)
+- Make a conditional to identify if the person is of age and male
+- Make a conditional to identify if the person is a minor and has the female gender

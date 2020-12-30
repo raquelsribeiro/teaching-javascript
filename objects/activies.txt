@@ -1,0 +1,20 @@
+
+- create a person object with the following characteristics:
+    - name
+    - age
+    - weight
+    - married
+    - favorite books
+
+- Create a car object with the following characteristics:
+    - wheels
+    - steering wheel
+    - brand
+    - name
+    - year
+
+- Create a book object with:
+    - title
+    - author
+    - year
+    - rented

@@ -1,0 +1,5 @@
+
+- Do a function that captures the person's current year and year of birth and returns the age 
+- Make a function that has two parameters one with a being number and the other with b being number
+- Do a function that receives in the parameters the name and age of the person and then return a message using the name of the parameter and the age
+- Do a function that returns an array of objects with name, age, sex and if you are married

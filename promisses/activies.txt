@@ -1,0 +1,4 @@
+
+- Create a promissory note that returns a sum of two numbers
+- Create a promissory note that returns a list of books 
+- Create a promisse that returns an object with the representations of a room
