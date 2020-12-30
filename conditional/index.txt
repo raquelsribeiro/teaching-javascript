@@ -4,5 +4,5 @@ In any programming language, the code needs to make decisions and take actions a
 depending on different entries. For example, in a game, if the number of the player's life is 0,
 then the game is over. In a weather application, if it is being watched in the morning,
 it shows a graph of sunrise; it shows stars and a moon if it is night. 
-In this article we will explore how the so-called conditional statements work in JavaScript...
+In this article we will explore how the so-called conditional statements work in JavaScript
 
